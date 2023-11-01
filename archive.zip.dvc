@@ -1,0 +1,5 @@
+outs:
+- md5: 39b0550a400c3df121ce667d09e0a927
+  size: 27948410
+  hash: md5
+  path: archive.zip
